@@ -1,3 +1,5 @@
+https://levelup.gitconnected.com/solving-rl-algorithms-by-hand-a-step-by-step-math-example-fdaf61d42958
+
 # All RL Algorithms from Scratch ✨
 
 This repository is a collection of Python implementations of various Reinforcement Learning (RL) algorithms. The *primary* goal is **educational**: to get a deep and intuitive understanding of how these algorithms work under the hood. 🧠 Due to the recent explosion in the AI domain especially Large Language Models, and many more applications it is important to understand core reinforcement learning algorithms.
